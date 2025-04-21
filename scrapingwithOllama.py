@@ -1,3 +1,8 @@
+#   A simple webscraper using llama LLM to scrape 
+#   the contents of a website
+#   through util functions that builds the system and user prompts
+#   from the given url
+
 import requests
 from bs4 import BeautifulSoup
 from IPython.display import Markdown, display
