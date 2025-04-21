@@ -1,6 +1,6 @@
 
 
-#   A simple webscraper using Ollama LLM to scrape 
+#   A simple webscraper using GPT LLM to scrape 
 #   the contents of a website
 #   through util functions that builds the system and user prompts
 #   from the given url
