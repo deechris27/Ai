@@ -1,7 +1,6 @@
 #   A simple util function that lets you question AI and get stream of replies in markdown
 
 import os
-import requests
 from dotenv import load_dotenv
 from openai import OpenAI
 import time
