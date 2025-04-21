@@ -4,6 +4,7 @@
 import os
 import requests
 import json
+import time
 from dotenv import load_dotenv
 from typing import List
 from bs4 import BeautifulSoup
@@ -139,10 +140,15 @@ def stream_brochure(company_name, url):
         stream=True
     )
     response=""
-    display_handle = display(Markdown(""), display_id=True)
+    #display_handle = display(Markdown(""), display_id=True)
     for chunk in stream:
         response += chunk.choices[0].delta.content or ''
         response = response.replace("```", "").replace("markdown", "")
-        update_display(Markdown(response), display_id=display_handle.display_id)
+        #update_display(Markdown(response), display_id=display_handle.display_id)
+        yield response
+        
 
-stream_brochure("huggingface", "https://huggingface.co")
+    for brochure in stream_brochure("huggingface", "https://huggingface.co"):
+        print(brochure)
+
+
