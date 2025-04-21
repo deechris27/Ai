@@ -67,7 +67,7 @@ system_prompt += """{
 
 def get_user_prompt(website):
      user_prompt = f"Here is the list of links from the website {website.url}"
-     user_prompt += "You pick the most relevant links from this list for the company brochure.\
+     user_prompt += "You are able to decide which of the links would be most relevant to include in a brochure about the company, such as links to an About page, or a Company page, or Careers/Jobs pages.\
      Respond with full https url in JSON format. \n"
      user_prompt += "\n".join(website.links)
      return user_prompt
