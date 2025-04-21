@@ -24,7 +24,7 @@ else:
 
 openai = OpenAI()
 
-response = openai.chat.completions.create(model="gpt-4o-mini", messages=[{"role":"user", "content":"Hello AI, What do you think will future proof my career as software professional with 13 years of experience?"}])
+response = openai.chat.completions.create(model="gpt-4o-mini", messages=[{"role":"user", "content":"Hello AI, What do you think will future proof the career of a software professional with 10 plus years of experience?"}])
 print(response.choices[0].message.content)
 
 headers = {
