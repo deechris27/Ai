@@ -31,4 +31,22 @@ response = deepseek_via_openapi_client.chat.completions.create(
     messages=messages
 )
 
-print(response.choices[0].message.content)
+#print(response.choices[0].message.content)
+
+def streamDeepseek():
+    stream = deepseek_via_openapi_client.chat.completions.create(
+    model="deepseek-chat",
+    messages=messages,
+    stream=True
+   )
+    
+    response = ""
+    for chunk in stream:
+        response += chunk.choices[0].delta.content or ''
+        response = response.replace("```").replace("markdown", "")
+        yield response
+
+
+for stream in streamDeepseek():
+  print(stream)
+
