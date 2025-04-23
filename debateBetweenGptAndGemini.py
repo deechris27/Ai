@@ -41,6 +41,8 @@ def call_gpt():
 
 call_gpt()
 
+
+
 gemini_via_openapi_client = OpenAI(
     api_key=gemini_api_key,
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
