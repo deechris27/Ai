@@ -1,0 +1,1 @@
+Mosin Khan is not very interesting person. Simple human with a boring lifestyle and preferces. Mostly binge watches all series. Prefers to eat snacks while watching and gifted by god to sleep anytime instantly. Mosin Khan's dad has four Nippolis.

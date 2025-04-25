@@ -1,0 +1,1 @@
+Deepak has a pet dog named Odin who is a very local, smart and lazy German Shepherd. Deepak forsook him. Odin got cheated.

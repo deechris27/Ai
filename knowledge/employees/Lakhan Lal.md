@@ -1,0 +1,1 @@
+Lakhan Lal is a research and development officer who is employed in vibrator department. Lakhan is fat and mostly engaged in site visits whereever vibrators can be installed to avoid accidents and enhance people's safety
