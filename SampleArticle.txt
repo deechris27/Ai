@@ -1,0 +1,801 @@
+International Journal of Work Innovation
+ISSN online: 2043-9040 - ISSN print: 2043-9032
+https://www.inderscience.com/ijwi
+Recreational activity and intention revisit: the role of
+destination personality, self-congruence and functional fit: the
+case of Mudurnu
+Erdem Baydeniz, Marco Valeri
+DOI: 10.1504/IJWI.2023.10058736
+Article History:
+Received: 06 June 2023
+Last revised: 15 June 2023
+Accepted: 15 June 2023
+Published online: 16 January 2024
+Powered by TCPDF (www.tcpdf.org)
+Copyright © 2024 Inderscience Enterprises Ltd.
+80 Int. J. Work Innovation, Vol. 5, No. 1, 2024
+Copyright © 2024 Inderscience Enterprises Ltd.
+Recreational activity and intention revisit: the role of
+destination personality, self-congruence and
+functional fit: the case of Mudurnu
+Erdem Baydeniz*
+Aydın Adnan Menderes University,
+Zafer, 09010 Efeler/Aydın, Turkey
+Email: erdembydeniz@gmail.com
+*Corresponding author
+Marco Valeri
+Faculty of Economics,
+Niccolò Cusano University,
+Rome, Italy
+Email: marco.valeri@unicusano.it
+Abstract: This study aims to determine the effects of destination personality,
+self-congruence, and functional fit on revisit intention. At the same time, the
+importance performance matrix analysis (IPMA) is used to determine the level
+of participation of individuals in leisure and recreational activities. The
+research population consists of tourists visiting the city of Bolu Mudurnu in
+Turkey, and 406 questionnaires were analysed. The convenience sampling
+method was used in the research. Structural equation model was used to
+analyse the data. In this context, it was found that destination personality of the
+tourists participating in the research has a positive effect on self-congruence,
+functional fit and revisit intention, that self-congruence has a positive effect on
+functional fit and revisit intention. That functional fit has a positive effect on
+revisit intention.
+Keywords: destination personality; self-congruence; functional fit; revisit
+intention; recreational activity; leisure; importance performance matrix
+analysis; IPMA.
+Reference to this paper should be made as follows: Baydeniz, E. and
+Valeri, M. (2024) ‘Recreational activity and intention revisit: the role of
+destination personality, self-congruence and functional fit: the case of
+Mudurnu’, Int. J. Work Innovation, Vol. 5, No. 1, pp.80–98.
+Biographical notes: Erdem Baydeniz received his Bachelor’s degree from the
+Süleyman Demirel University (2012–2016), Department of Tourism
+Management, MSc (2016–2019) and PhD (2019–2023) from the Afyon
+Kocatepe University. Since 2019, he has worked as a doctorate at the Afyon
+Kocatepe University, Faculty of Tourism, Department of Tourism
+Management, and has national and international papers and book chapters. His
+main research interests are tourism management dynamics such as gastronomy,
+neuro gastro, sustainability, crisis management, and resilience of tourism
+destinations. He has significant international academic experience that spans a
+considerable length of time.
+Recreational activity and intention revisit 81
+Marco Valeri received his PhD in Strategic Management and Organisational
+Behaviour from ‘Tor Vergata’ University, Italy. He is a Senior Lecturer in
+Organisational Behaviour (Master’s degree and Doctoral course), Faculty of
+Economics, Niccolò Cusano University, Rome, Italy. He received his PhD in
+Strategic Management and Organisational Behaviour from ‘Tor Vergata’
+University, Italy. He is a Senior Lecturer in Organisational Behaviour (Master’s
+degree and Doctoral course), Faculty of Economics, Niccolò Cusano
+University, Rome, Italy. He is an Adjunct Professor at the Faculty of Social
+Sciences and Leisure Management, School of Hospitality, Tourism and Events,
+Taylor’s University, Subang Jaya 47500, Malaysia. He is an associate
+researcher in Strategy, Magellan Research Centre, School of Management,
+Iaelyon Business School, Jean Monet University, Lyon, France. He is an
+Honorary Associate Professor at the University of Pannonia, Hungary.
+1 Introduction
+Tourism brings about numerous economic, social, and cultural benefits to various
+destinations worldwide. To attract tourists, destinations adopt different strategies, and one
+highly effective approach is to establish a unique and distinct destination personality.
+This distinct personality helps in capturing tourists’ interest and sets the place apart from
+others (Ekinci and Hosany, 2006; Murphy et al., 2007a). Understanding the personality
+traits of a destination becomes crucial as it helps in meeting tourists’ expectations and
+significantly increases their intention to return. Before embarking on a journey to a new
+destination, tourists take into account various factors, such as local infrastructure,
+attractions, historical significance, and the overall appeal of the place (Hsu et al., 2009).
+However, purely functional aspects might not entirely explain tourists’ inclination to
+revisit a destination. The concept of self-congruence becomes essential as it enables
+tourists to form a strong emotional connection with the destination, ultimately influencing
+their intention to revisit (Murphy et al., 2007b; Souiden et al., 2017). Hence, both
+destination personality and self-congruence play pivotal roles in shaping tourists’
+intentions to revisit a place (Sirgy and Su, 2000). Nevertheless, there is still a lack of
+adequate research on the combined effects of self-congruence and functional fit on
+tourists’ revisit intentions.
+This study aims to bridge this research gap by examining the destination personality
+of the Mudurnu district in Bolu and how self-congruence and functional fit influence
+tourists’ intention to revisit this region. The objectives include identifying the destination
+personality of Mudurnu, assessing tourists’ levels of self-congruence and functional fit,
+and analysing the impact of these factors on their intention to revisit. While some studies
+have explored the relationship between destination personality and self-congruence in
+tourists’ revisit intentions, such as Wang et al.’s (2018) research in Guilin, China, few
+have focused on the effects of both self-congruence and functional fit. However, Kumar
+and Nayak (2014a) investigated the effect of functional fit on tourists’ revisit intentions
+and found a positive correlation.
+The findings of this study will contribute valuable insights to the existing literature by
+exploring the influence of destination personality, self-congruence, and functional fit on
+tourists’ revisit intentions, specifically in the Mudurnu district. These insights will be
+beneficial for destination managers, empowering them to devise effective strategies to
+82 E. Baydeniz and M. Valeri
+increase tourists’ visits and revisit intentions. By identifying the distinctive personality
+traits of Mudurnu and understanding tourists’ self-congruence and functional fit,
+destination managers can tailor their offerings and enhance the overall visitor experience,
+thereby attracting more tourists to the region.
+Moreover, this research addresses a significant gap in the literature by focusing on the
+Mudurnu district of Bolu. Although numerous studies have investigated destination
+personality, self-congruence, and functional fit in different locations, there is limited
+research on these factors in the context of Mudurnu. Understanding the unique
+destination personality of Mudurnu and its impact on tourists’ self-congruence and
+functional fit can offer valuable insights into the specific characteristics and attributes
+that attract visitors to this region.
+By examining tourists’ intention to revisit Mudurnu, this study contributes to the
+understanding of destination loyalty and the factors influencing tourists’ decision-making
+processes. Revisit intention serves as an indicator of a destination’s success, reflecting
+tourists’ satisfaction and desire to return. Therefore, exploring the effects of destination
+personality, self-congruence, and functional fit on revisit intention can assist destination
+managers in developing effective marketing strategies and improving the tourism
+experience in Mudurnu. Recreational activities encompass a wide range of pursuits,
+including sports, outdoor adventures, cultural outings, creative hobbies, and social
+interactions (Franceschinis et al., 2022). Engaging in these activities not only brings joy
+and fulfilment but also contributes to physical well-being, mental rejuvenation, and the
+development of new skills and interests. Furthermore, recreational activities often foster a
+sense of community, connection, and shared experiences, making them valuable
+components of a balanced and fulfilling lifestyle (Alessandro, 2022).
+The results of this study will provide destination managers with practical insights and
+actionable recommendations. By understanding the unique personality traits of Mudurnu,
+destination managers can emphasise and promote these traits in their marketing efforts to
+attract a specific target market that resonates with the destination’s personality.
+Moreover, by recognising the importance of self-congruence and functional fit, managers
+can tailor their offerings and experiences to the preferences and expectations of their
+target audience, thereby increasing visitor satisfaction and the likelihood of Mudurnu
+return visits.
+2 Conceptual framework
+2.1 Destination personality
+Destination personality is a fascinating concept that emerges from the combination of
+unique characteristics found in various tourist destinations. In this context, personality
+refers to the distinctive characteristics and emotional qualities associated with a person
+(TDK, 2022). Similarly, destination personality encompasses a set of human-like
+characteristics attributed to tourism destinations (Hosany et al., 2006). This concept plays
+an important role in how tourists perceive and connect with travel destinations.
+Destination personality emerges when we apply brand personality traits, commonly
+found in marketing literature, to tourist destinations such as cities or regions (Aaker,
+1997). It blends the functional, symbolic, and experiential aspects of a place (Hankinson,
+2004), all of which contribute to shaping the destination’s image and how it is perceived
+Recreational activity and intention revisit 83
+by tourists (Opoku, 2009). Understanding destination personality can significantly impact
+how tourists experience and relate to the places they visit. Creating a destination
+personality is necessary to brand a tourist destination (Kumar and Nayak, 2014b).
+Destination personality can increase the competitiveness of destinations in the market by
+enabling tourists to perceive, talk about, and share destinations (Balakrishnan and
+Jayapalan, 2007). There are two main factors to consider when creating a destination
+personality. The first factor is determining the destination’s functional, symbolic, and
+experiential characteristics. The second factor is the orientation effect that can occur
+toward tourists’ perceptions and desires (Kaushal et al., 2019). Since destination
+personality allows tourists to perceive and personalise destinations, it should have strong
+personality characteristics and an orientation effect toward tourists’ perceptions and
+desires (Gomez Aguilar et al., 2014).
+2.2 Self-congruence
+Self-congruence is defined as an individual’s self-existence, personality, individuality,
+and the elements that make up the self (Baumeister, 2018; Markus and Nurius, 1986;
+Swann et al., 2015). Self-congruence is formed due to the combination of the individual’s
+feelings, perceptions, attitudes, and views about the self and the evaluations of others
+(Kang and Sung, 2021). Self-congruence has four dimensions: actual self, ideal self,
+social self, and ideal social self (Lin and Chao, 2022; Markus and Nurius, 1986).
+Accurate self-congruence refers to the harmony between one’s self-perception and one’s
+image of oneself (Lin and Chao, 2022). Ideal self-perception, on the other hand, reflects
+how one would like to see oneself and the self-perception one desires (Baumeister, 2018;
+Markus and Nurius, 1986). Social self-perception relates to how others perceive one
+(Swann et al., 2015). Ideal social self-perception is related to how one would like to be
+perceived by others (Lin and Chao, 2022; Markus and Nurius, 1986).
+Regarding consumer behaviour, self-congruence can be explained by the preference
+for products with a similar image to one’s own (Lin and Chao, 2022; Sirgy, 1982).
+Therefore, the level of self-representation and the congruence of the product with the
+consumer’s self-perception play an essential role in deciding whether to purchase a
+product (Lin and Chao, 2022; Sirgy, 1982). Most research on self-congruence shows that
+individuals’ ideal self-perceptions guide their self-perceptions and that the products they
+often prefer to fit their ideal selves (Lin and Chao, 2022; Markus and Nurius, 1986).
+When consumers purchase a product, the conformity of the product with social
+expectations is as necessary as the conformity of the product with their self-perceptions
+(Sirgy, 1982; Swann et al., 2015). As a result, self-congruence plays a vital role in
+consumer behaviour. Consumers’ decision to purchase a product is influenced by the
+unity of the product with their self-perceptions and social expectations. Therefore, sales
+and marketing strategies should follow consumers’ self-perceptions (Sirgy, 1982; Swann
+et al., 2015).
+2.3 Functional fit
+Functional fit is the difference between consumers’ attitudes, thoughts, and perceptions
+about the functions related to the performance they receive from the product or service
+they purchase and the features they encounter (Johar and Sirgy, 1991). Consumers make
+84 E. Baydeniz and M. Valeri
+cost-benefit assessments in the purchase decision process and prefer products that
+provide benefits commensurate with their costs (Kumar and Nayak, 2014b). Functional
+fit states that consumers consider the benefits they will receive from a product when
+purchasing it (Samli and Sirgy, 1982). Chon and Olsen (1991) noted that functional fit
+directly affects tourists’ post-visit behaviour. Sirgy and Su (2000) contributed to the field
+by demonstrating the role of functional adjustment in predicting tourist behaviour from a
+theoretical perspective.
+Functional fit can measure the differences between consumers’ product expectations
+and perceived performance (Klipfel et al., 2014). Therefore, functional fit is of great
+importance in understanding consumers. Since functional fit is based on the theory of
+self-fit, it was introduced to determine consumer behaviour in tourism (Kim et al., 2004).
+While functional fit is mainly a brand positioning tool in marketing, it has been
+characterised as consumer perception, brand image and extended functionality in tourism
+(Chon, 1990; Klipfel et al., 2014). Functional fit in tourism can be defined as the
+difference between the benefits tourists expect from a destination and the performance
+they perceive (Chon and Olsen, 1991). Therefore, tourism organisations can use the
+concept of functional fit to understand tourists’ expectations and needs.
+2.4 Revisit intention
+Intention to revisit refers to the desire and willingness of tourists to return to a specific
+destination, brand, or product (Xiang et al., 2017). This aspect is of utmost importance in
+the tourism industry, as it directly impacts the success of businesses (Bigne et al., 2020).
+The decision of whether tourists intend to revisit a place is influenced by various factors,
+such as their past experiences, level of satisfaction, and perceived value (Li and Petrick,
+2016). Additionally, tourists’ inclination towards novelty and the competitive appeal of
+alternative destinations also play a role in shaping their intention to revisit (Gursoy et al.,
+2020).
+The intention to revisit is considered a vital indicator of success for tourism
+senterprises by many researchers (Bigne et al., 2020; Xiang et al., 2017). Consequently, it
+becomes imperative for companies to develop effective strategies that can enhance
+tourists’ satisfaction levels, elevate the perceived value of their offerings, and ultimately
+encourage them to revisit.
+Tourists’ intention to revisit a destination increases when their previous experiences
+are positive (Li and Petrick, 2016). In addition, tourists’ perceived value and satisfaction
+are among the critical factors influencing their revisit intention (Bigne et al., 2020). On
+the other hand, tourists’ innovation-seeking tendencies and competition among
+alternative destinations are other factors affecting revisit intentions (Gursoy et al., 2020).
+Therefore, businesses need to offer services in line with tourists’ innovation-seeking
+tendencies and highlight the unique features of their destinations.
+3 Method
+3.1 Study site: Bolu Mudurnu
+The place where the research was conducted is Bolu Mudurnu. Bolu Mudurnu is a district
+located in the Black Sea region of Turkey and is an important tourist destination. In this
+Recreational activity and intention revisit 85
+study, 406 participants were selected from tourists visiting Bolu Mudurnu using a
+non-probability convenience sampling method. The survey form used in the research was
+applied by face-to-face interview method in touristic destination in Bolu Mudurnu.
+3.2 Research instrument
+The measurement tool used in this study is a questionnaire form prepared to measure
+destination personality, self-congruence, functional fit and revisit intention. The questions
+in the questionnaire were inspired by the scales used in the literature. The questionnaire
+has two parts. The first part contains questions about the demographic characteristics of
+the participants. The second part contains items related to destination personality,
+self-congruence, functional fit and intention to revisit.
+The eight-item scale developed by Bosnjak et al. (2011) was used as the
+self-congruence scale. As the destination personality scale, the eight-item, one-dimension
+scale developed by Aaker (1997), Murphy et al. (2007a), and Yeh et al. (2010) were used.
+A three-item scale developed by Lee and Chang (2012) was used for the revisit intention
+variable. The questionnaire form was administered to tourists at the tourist sites of Bolu
+Göynük using the face-to-face interview method. The answers to the questions in the
+questionnaire were coded in the SPSS statistical programme and made suitable for
+analysis.
+3.3 Sampling and data collection
+In this study, the non-probability convenience sampling method was preferred. The
+research was conducted with 396 participants randomly selected among the tourists in the
+tourist places of Bolu Göynük. The data were collected through the face-to-face interview
+method. The researchers distributed the questionnaire form to the participants in the
+tourist places and filled it by the participants. The questionnaire form was coded
+according to the participants’ answers and made suitable for analysis. The sample size
+was calculated using G*POWER 3.1.9.4 software (Faul et al., 2007). It was determined
+that the required sample size was 98 (power = 0.80, f
+2 = 0.15, α = 0.05). However, to
+obtain a more consistent model, this number was multiplied by three (Ringle et al., 2015),
+and a sample of at least 300 was deemed appropriate. Finally, it was decided to collect
+396 questionnaires to compensate for similar unforeseen uncertainties. The data obtained
+in the research were analysed using SPSS statistical software. The data were first
+processed for measurement model analyses and then evaluated in a three-stage approach
+as a structural model and path analysis. Measurement model analyses were conducted to
+examine the validity and reliability results of the scales and to evaluate the effectiveness
+of the structural model.
+3.4 Data analysis
+In this study, data were first processed for measurement model analyses and then
+evaluated using a three-stage approach as the structural model and path analysis.
+Measurement model analyses were conducted to provide information on the validity and
+reliability of the scales. These analyses used statistical methods such as internal
+consistency coefficient (Cronbach’s alpha), convergent validity between scales, average
+86 E. Baydeniz and M. Valeri
+variance extracted, and factor loadings of each scale. Structural model and path analysis
+were used to test the research hypotheses. In these analyses, statistical methods, including
+model fit values, model effect size and structural equation model results were used.
+Cross-loading and discriminant validity analyses were also conducted. Cross-loading
+analyses were conducted to verify that each scale was highly correlated only with its
+factor. Discriminant validity analyses were conducted to verify that each scale was highly
+correlated only with its factor and lowly correlated with other factors.
+Table 1 Confirmatory tetrad analysis
+Indicator β X S.d. t p CI low
+adj.
+CI up
+adj. R/F
+4: DK1, DK2,
+DK3, DK5
+0.280 0.275 0.134 2.094 0.037 –0.121 0.693 Reflective
+6: DK1, DK3,
+DK5, DK2
+0.028 0.031 0.054 0.518 0.605 –0.140 0.191
+1: FU-1, FU-2,
+FU-3, FU-4
+0.090 0.085 0.084 1.063 0.288 –0.162 0.350 Reflective
+2: FU-1, FU-2,
+FU-4, FU-3
+–0.252 –0.251 0.096 2.617 0.009 –0.547 0.039
+1: BU-1, BU2, BU-3, BU-4
+0.033 0.035 0.028 1.208 0.228 –0.052 0.115 Reflective
+2: BU-1, BU2, BU-4, BU-3
+–0.114 –0.107 0.058 1.979 0.048 –0.297 0.054
+1: FU-1, TZ1,
+TZ2, TZ3
+–0.097 –0.093 0.066 1.461 0.145 –0.249 0.048 Reflective
+2: FU-1, TZ1,
+TZ3, TZ2
+–0.074 –0.074 0.062 1.195 0.233 –0.214 0.065
+Confirmatory tetrad analyses (CTA) were performed on the scales included in the model
+(Gudergan et al., 2008), and it was found that all variables had a value of ‘0’ in the
+confidence intervals and showed the reflective property (Hair et al., 2017). In this
+context, covariance-based structural equation modeling was carried out. For this purpose,
+the PLSc (consistent PLS) tab in the SmartPLS software was used.
+In the literature (Schaarschmidt et al., 2015), there is the idea that questionnaires used
+from a single source potentially pose a bias threat in social science research. Therefore,
+we investigated whether common method bias threatens the interpretation of research
+findings. All items were subjected to principal components factor analysis, and Harman’s
+one-factor test was applied (Podsakoff and Organ, 1986). It was found that all items
+entered did not explain the 50% variance threshold with a single factor (36.250%), and
+there was no common method bias in the research.
+3.5 Development of hypotheses for research
+H1 Destination personality has a significant positive effect on self-congruence.
+H2 Destination personality has a significant positive effect on functional fit.
+H3 Destination personality has a significant positive effect on revisit intention.
+H4 Self-congruence has a significant positive effect on functional fit.
+Recreational activity and intention revisit 87
+H5 Self-congruence has a significant positive effect on revisit intention.
+H6 Functional fit has a significant positive effect on revisit intention.
+Figure 1 Research model proposal
+Functional fit
+Destination
+personality Revisit intention
+Self-compatibility
+H2
+H1 H5
+H3
+H6
+H4
+4 Findings
+52.1% of the participants are female, and 47.9% are male, and when analysing the marital
+status, 60% are married, and 40% are single. When analysing the age groups of the
+participants, the highest participation is in the 36–45 age groups, with 32.8%, followed
+by the 26–35 age groups, with 24.1%. Looking at the educational level of the
+participants, 52.1% of the participants have a bachelor’s degree, and 1.5% has a
+doctorate. When analysing the income status of the participants, 39.6% of them have an
+income of 9,001–12,000, while 2.7% have an income of 15001 and above.
+In order to identify the constructs with variance outlier factor (outer VIF) values
+equal to or higher than 5, the collinearity test proposed by Kock and Lynn (2012) was
+performed (Hair et al., 2017). According to the relevant results, it was determined that
+there were no collinearity problems in the Outer VIF value of all constructs, and the
+values were less than 5 (Hair et al., 2017).
+Cronbach alpha (α) and rho_A values were analysed for the scale’s reliability.
+According to Dijkstra and Henseler (2015), α and rho_A values greater than 0.70 indicate
+good reliability. This study concluded that the α values of the scales were between
+0.924–0.975 and had good reliability. In addition, the rho_A reliability coefficient was in
+the range of 0.944–0.976 and gave better results than the α values. AVE values were
+analysed for the convergent validity of the scale, and integrated reliability (rho_C) values
+were examined for internal consistency. AVE values ranged from 0.635–0.830, and
+according to Fornell and Larcker (1981), AVE should be > 0.50 and above; rho_C values
+ranged from 0.924–0.975 and according to Bagozzi and Yi (1988), rho_C should be >
+0.60 and above (see Table 2).
+In order to determine the discriminant validity of the scales, the Fornell-Larcker
+criterion was calculated. When the correlation loadings between the variables were
+examined, it was found that all variables were lower than the √AVE value, thus providing
+the first level of discriminant validity (Fornell and Larcker, 1981) (see Table 3).
+88 E. Baydeniz and M. Valeri
+Table 2 Validity and reliability analysis results
+Indicators λ α rho_A rho_C AVE
+*Self-congruence (SC)
+SC1 0.971
+SC2 0.880
+SC3 0.941
+SC4 0.922 0.975 0.976 0.975 0.830
+SC5 0.888
+SC6 0.978
+SC7 0.862
+SC8 0.836
+*Destination personality (DP)
+DP1 0.654
+DP2 0.661
+DP3 0.714
+DP4 0.679 0.936 0.944 0.931 0.635
+DP5 0.770
+DP6 0.927
+DP7 0.947
+DP8 0.947
+*Functional fit (FF)
+FF1 0.935
+FF2 0.917
+FF3 0.858
+FF4 0.865 0.967 0.968 0.967 0.785
+FF5 0.937
+FF6 0.877
+FF7 0.864
+FF8 0.829
+*Revisit intention (RI)
+RI1 0.903
+RI2 0.891 0.924 0.976 0.924 0.802
+RI3 0.893
+Notes: *Measured using a five-point Likert scale format (1 = Strongly disagree,
+3 = Do not know, 5 = Strongly agree). λ = Factor loadings, α = Cronbach alpha,
+rho_A = Reliability, rho_C = Integrated reliability, AVE = Average variance
+explained.
+When examining the HTMT discriminant validity analysis of the scales, it was stated that
+each value should be less than 0.80 (Voorhees et al., 2016). When examining the results
+of the related analysis, it was determined that the average of the correlation values of the
+Recreational activity and intention revisit 89
+variables was less than 0.80, and the second level of discriminant validity was provided
+(see Table 4).
+Table 3 Fornell Larcker criterion and HTMT ratio results
+Fornell Larcker HTMT
+DP FF RI SC DP FF RI SC
+DP 0.797 -
+FF 0.601 0.886 0.584 -
+RI 0.636 0.735 0.896 0.624 0.736 -
+SC 0.392 0.481 0.595 0.911 0.390 0.480 0.594 -
+Note: √AVE = Root mean square variance (shown in italic), HTMT = Correlation
+geometric means.
+The research examined the cross-loading values and measurement items of each
+construct. The correlation loadings between the items of each scale are expected to be
+higher than those of other items (Hair et al., 2017). It is argued that the cross-loading
+value of the relevant items should be greater than 0.7 (Ghozali and Latan, 2015). It was
+determined that the cross-loading values of the study were more significant than 0.7, and
+the final stage of discriminant validity was achieved (see Table 4).
+Before testing the research model, the model’s goodness of fit (GoF) was tested. The
+standard root mean square root (SRMR) is the difference between the observed and
+predicted correlations, and the relevant value should be less than 0.08 (Hu and Bentler,
+1998). The other fit index is the normed fit index (NFI), an incremental fit measure
+calculated and compared with the X2 value of the proposed model. NFI values above 0.9
+represent an acceptable fit (Lohmöller, 1989). Dijkstra and Henseler (2015) suggest that
+d_ULS and d_G should be considered as two different ways of calculating this
+discrepancy. Suppose the difference between the correlation matrix implied by the tested
+model and the empirical correlation matrix is so small that it can only be attributed to
+sampling error. In that case, it is a good model (p > 0.05). Henseler et al. (2016) state that
+d_ULS and d_G should be lower than < 95% bootstrapped quantile values. The GoF
+value results from the square root of the product of the AVE mean and the R2 mean and is
+used to determine the general predictive power of the research model (Tenenhaus et al.,
+2005). When examining the GoF values of the model, it can be said that all values
+provide a good fit (see Table 5).
+4.1 Structural model analysis
+Linearity path coefficients (R2) and the research model’s effect size values (f
+2) were
+calculated. When the variance inflation factor (VIF) values were examined during the
+structural equation modelling process of the research model, it was understood that the
+relevant values were less than five, and there was no linearity problem (Hair et al., 2017).
+The effect size coefficients (f
+2) are between 0.126 and 1.353. When analysing the R2
+values obtained from the model, it was found that self-congruence was explained by
+1.5%, functional fit by 4.3%, and revisit intention by 6.6% (see Table 6).
+Mean absolute error (MAE) (PLS-predict) was analysed to examine the mean
+magnitude of error associated with the endogenous variables’ results and identify
+differences between them. Comparing the PLS-MAE and LV-MAE values of the
+90 E. Baydeniz and M. Valeri
+dependent variables revisit intention scales, it was found that the LV-MAE values had a
+higher ratio than the PLS-MAE values. Furthermore, on the other hand, it was determined
+that PLS and LV Q2 predictive values were higher than 0. In this direction, it was
+determined that the model’s predictive power was high (Hair et al., 2017).
+Table 4 Discriminant validity cross-loadings
+ SC DP FF RI
+SC-1 0.971 0.368 0.484 0.572
+SC-2 0.880 0.329 0.427 0.532
+SC-3 0.941 0.373 0.464 0.549
+SC-4 0.922 0.370 0.431 0.553
+SC-5 0.888 0.354 0.427 0.524
+SC-6 0.978 0.391 0.469 0.578
+SC-7 0.862 0.328 0.415 0.519
+SC-8 0.836 0.339 0.382 0.507
+DP-1 0.270 0.654 0.394 0.406
+DP-2 0.259 0.661 0.375 0.443
+DP-3 0.340 0.714 0.411 0.432
+DP-4 0.319 0.679 0.369 0.437
+DP-5 0.367 0.770 0.420 0.491
+DP-6 0.320 0.927 0.570 0.606
+DP-7 0.325 0.947 0.601 0.601
+DP-8 0.316 0.947 0.615 0.593
+FF-1 0.451 0.598 0.935 0.663
+FF-2 0.439 0.557 0.917 0.671
+FF-3 0.424 0.510 0.858 0.630
+FF-4 0.417 0.526 0.865 0.631
+FF-5 0.462 0.570 0.937 0.680
+FF-6 0.410 0.500 0.877 0.668
+FF-7 0.423 0.491 0.864 0.651
+FF-8 0.381 0.498 0.829 0.618
+RI-1 0.523 0.599 0.659 0.903
+RI-2 0.542 0.540 0.664 0.891
+RI-3 0.535 0.571 0.653 0.893
+Table 5 Research model fit scores
+Compliance criteria Saturated model Critical value
+SRMR 0.061 0.08
+d_ULS 1.402 0.05
+d_G 1.633 0.05
+X2 3,403.986 -
+NFI 0.763 0.8
+GoF 0.567 0.36
+Recreational activity and intention revisit 91
+Table 6 Structural model analysis results
+InnerVIF f2
+R2
+SC FF RI SC FF RI
+SC 1.182 1.330 0.126 0.172 0.152
+DP 1.000 1.182 1.599 0.182 0.353 0.124
+FF 1.761 0.329 0.429
+RI 0.656
+Note: DK = Destination personality, FU = Functional fit, BU = Self-congruence,
+TZ = Revisit intention,
+Table 7 Structural equation model results
+ Hypotheses β X S.d. t p R
+H1 DP → SC 0.392 0.391 0.056 7.015 0.000*** Accepted
+H2 DP → FF 0.487 0.491 0.050 9.700 0.000*** Accepted
+H3 DP → RI 0.260 0.262 0.054 4.812 0.000*** Accepted
+H4 SC → FF 0.290 0.287 0.056 5.180 0.000*** Accepted
+H5 SC → RI 0.279 0.277 0.055 5.102 0.000*** Accepted
+H6 FF → RI 0.445 0.444 0.060 7.374 0.000*** Accepted
+Notes: DK = Destination personality, FU = Functional fit, BU = Self-congruence,
+TZ = Turnover intention, β = Beta, Χ = Arithmetic mean, S.d. = Standard ̅
+deviation, t = Significance value, p = Significance value, R = Result, p < 0.05*,
+p < 0.001**, p < 0.000***.
+Figure 2 Research model
+92 E. Baydeniz and M. Valeri
+According to the path analysis results, destination personality has a significant positive
+effect on self-congruence (β = 0.392, p > 0.05), functional fit (β = 0.487, p > 0.05), and
+revisit intention (β = 0.260, p > 0.05). Hypotheses H1, H2, and H3 are therefore accepted.
+Self-congruence has a significant positive effect on functional fit (β = 0.290,
+p > 0.05) and revisits intention (β = 0.279, p > 0.05). Hypotheses H4 and H5 are therefore
+accepted. Functional fit has a significant positive effect on revisit intention
+(β = 0.445, p > 0.05). Therefore, Hypothesis H6 is accepted (see Table 7). The results of
+the research model are shown in Figure 2.
+Figure 3 IPMA result (see online version for colours)
+Figure 3 demonstrates that functional fit, self-congruence, and destination personality
+play a crucial role in determining tourists’ intention to revisit a destination, showcasing
+their significant impact on performance. These factors serve as essential determinants in
+influencing individuals’ engagement in leisure and recreational activities. Notably,
+self-congruence emerges as the most influential factor, surpassing others in terms of
+performance importance for revisit intention. This emphasises the critical role of
+destination personality, functional fit factors, and self-fitness in shaping tourists’
+intention to revisit. Consequently, the tourism industry should prioritise these factors to
+enhance customer satisfaction and promote repeat visits.
+Recreational activity and intention revisit 93
+5 Conclusions and implications
+The present study focused on examining the impact of tourists’ perceptions of a
+destination’s personality on self-congruence, functional fit, and revisit intention in
+Mudurnu. In addition, the study examined the relationships between self-congruence and
+functional fit, as well as functional fit and revisit intention. The results of the hypothesis
+tests indicated that destination personality perceptions significantly and positively
+influence self-congruence, functional fit, and revisit intention. As a result, Hypotheses
+H1, H2 and H3 were confirmed.
+These findings are consistent with previous research conducted by Huang et al.
+(2017), who also found a positive relationship between destination personality perception
+and self-congruence. Similarly, Baloglu et al. (2014) showed that destination personality
+perceptions of cruise tourists visiting Jamaica had a positive effect on their revisit
+intentions. In another study, Hultman et al. (2017) reported that perceptions of destination
+personality had a positive impact on functional fit. Furthermore, Murphy et al. (2007b)
+observed a moderate correlation between destination personality perceptions and tourists’
+likelihood to revisit Australia.
+On the other hand, Usakli and Baloglu (2011) found that destination personality
+perceptions influenced both self-congruence and revisit intentions. The study also found
+that self-congruence significantly and positively influenced functional fit and revisit
+intention. In addition, functional fit was found to have a significant positive effect on
+revisit intention. As a result, Hypotheses H4, H5, and H6 were supported.
+The results of this study are consistent with research conducted by Hung and Petrick
+(2011), where functional fit and self-congruence were found to have a positive effect on
+the intention to participate in cruise tourism. Similarly, in another study conducted by
+Hung and Petrick (2012), self-congruence and functional fit were found to have positive
+effects on revisit intention. Therefore, the findings of this study are supported by other
+studies in the extant literature.
+5.1 Theoretical implications
+The research findings have significant theoretical implications, serving as a valuable
+reference for understanding and effectively managing customer behaviour in the tourism
+sector. The study explores the key factors influencing tourists’ choice of destination and
+confirms the interconnectedness of destination personality perception; self-congruence,
+functional fit, and revisit intention. Destination personality perception emerges as a
+crucial element impacting tourists’ destination choices. To optimise their marketing
+strategies, destinations should highlight and promote desirable personality traits. By
+doing so, they can positively influence tourists’ perceptions and attitudes towards the
+destination, ultimately shaping their preferences.
+Tourists’ self-congruence also plays a vital role in determining their chosen
+destination. When there is a harmonious match between tourists’ characteristics and
+preferences with those of the destination, it enhances the overall appeal of the place.
+Therefore, destinations should aim to customise tourism experiences to better align with
+tourists’ expectations, ultimately increasing their sense of self-congruence. Additionally,
+functional fit holds significant importance in influencing tourists’ decision-making
+process. Destinations need to cater to tourists’ specific needs by offering appropriate
+94 E. Baydeniz and M. Valeri
+products and services. This level of personalisation contributes to greater tourist
+satisfaction and increases the likelihood of return visits.
+The intention to revisit a destination is a pivotal indicator in the tourism sector. A
+positive and memorable tourism experience can significantly impact tourists’ intention to
+return. Therefore, destinations should strive to create unique and memorable experiences
+for visitors, encouraging them to come back in the future. Overall, understanding and
+influencing tourist behaviour is critical for the growth and sustainability of the tourism
+industry. By consistently providing innovative products and services tailored to meet
+tourists’ needs, the sector can foster positive behaviour among tourists and stimulate
+industry growth. Prioritising these aspects is vital for ensuring the continued success of
+the tourism sector.
+5.2 Practical implications
+To improve tourist satisfaction and encourage their return, destinations must carefully
+consider the practical implications of their actions. Understanding the personality traits
+that tourists perceive and incorporating these traits into marketing strategies can
+significantly enhance the destination’s appeal. By adapting to tourists’ characteristics and
+providing experiences that resonate with them, destinations can create more positive and
+memorable tourism experiences, increasing the likelihood of repeat visits.
+To further increase tourist satisfaction and intention to return, destinations should
+focus on offering products and services that meet tourists’ specific needs. This functional
+fit ensures that visitor’ expectations are met, leading to higher levels of satisfaction and a
+greater likelihood of future visits. By prioritising positive experiences and constantly
+innovating to meet tourists’ evolving preferences, the tourism sector can influence and
+stimulate its own growth.
+Continuous innovation is critical to the sustainability and growth of the tourism
+industry. Destinations should always strive to develop new and unique products and
+services that meet the demands of tourists. By doing so, they can not only meet the
+immediate needs of visitors, but also create a dynamic and appealing environment that
+will attract more tourists over time.
+Ultimately, destinations that take into account the practical implications outlined in
+this research can increase tourist satisfaction, increase the likelihood of repeat visits, and
+make a significant contribution to the overall growth of the tourism sector. These
+considerations are critical to guiding the tourism industry toward a sustainable and
+prosperous future.
+5.3 Limitations and recommendations for future research
+The study has certain limitations that need to be acknowledged in order to better
+understand its findings. First, the sample size was relatively small, which may affect the
+overall reliability and applicability of the results. In addition, the data collection was
+based on a questionnaire, which could potentially introduce biases or limitations in
+capturing the full complexity of tourist behaviour. Another factor to consider is that the
+study focused only on tourists travelling to Turkey. Therefore, it may not be
+representative of tourist behaviour in other regions or countries. To address this, future
+research should aim to include a more diverse range of destinations and tourist
+populations to ensure broader generalisability. In order to gain a more comprehensive
+Recreational activity and intention revisit 95
+understanding of tourist behaviour, it would be beneficial to include a wider range of
+factors in future studies. This could include examining different aspects and
+characteristics of different tourist segments. In this way, destinations can develop
+targeted marketing strategies tailored to the specific preferences and needs of different
+types of tourists. It is also important to assess whether tourist behaviour is in line with the
+goals of sustainable tourism. Conducting research in this area will help promote
+sustainable practices within the tourism sector and contribute to its long-term viability. In
+future studies, researchers should explore additional factors that influence tourist
+behaviour, such as the impact of their previous tourism experiences, price considerations,
+weather patterns, travel purposes, and the unique characteristics of different destinations.
+In particular, tourism experience plays an important role in shaping tourist behaviour.
+Therefore, devoting more research efforts to investigate this aspect will provide valuable
+insights for industry stakeholders and policy makers.
+References
+Aaker, J.L. (1997) ‘Dimensions of brand personality’, Journal of Marketing Research, Vol. 34,
+pp.347–356, https://doi.org/10.1177/002224379703400304.
+Alessandro, P. (2022) ‘Demand analysis on forest-based recreational activities’, Journal of
+Environmental Accounting and Management, Vol. 10, No. 3, pp.219–236.
+Bagozzi, R.P. and Yi, Y. (1988) ‘On the evaluation of structural equation models’, Journal of The
+Academy of Marketing Science, Vol. 16, No. 1, pp.74–94.
+Balakrishnan, M.S. and Jayapalan, D. (2007) ‘Destination branding: an approach to build brand
+Kerala’, Journal of Tourism and Hospitality Management, Vol. 8, No. 1, pp.1–18.
+Baloglu, S., Henthorne, T.L. and Sahin, S. (2014) ‘Destination image and brand personality of
+Jamaica: a model of tourist behavior’, Journal of Travel & Tourism Marketing, Vol. 31, No. 8,
+pp.1057–1070.
+Baumeister, R.F. (2018) ‘The self’, in Fiske, S.T., Gilbert, D.T. and Lindzey, G. (Eds.): Handbook
+of Social Psychology, Vol. 1, pp.103–140, Published by Wiley & Sons, Inc., Hoboken,
+New Jersey, Canada, ISBN: 978-0-470-13747-5.
+Bigne, E., Chatzipanagiotou, K. and Ruiz, C. (2020) ‘Pictorial content, sequence of conflicting
+online reviews and consumer decision-making: the stimulus-organism-response model
+revisited’, Journal of Business Research, Vol. 115, pp.403–416, https://doi.org/10.1016/
+j.jbusres.2019.11.031.
+Bosnjak, M., Sirgy, M.J., Hellriegel, S. and Maurer, O. (2011) ‘Post visit destination loyalty
+judgments: developing and testing a comprehensive congruity model’, Journal of Travel
+Research, Vol. 50, No. 5, pp.496–508.
+Chon, K.S. (1990) ‘The role of destination image in tourism: a review and discussion’, The Tourist
+Review, Vol. 45, No. 2, pp.2–9.
+Chon, K.S. and Olsen, M.D. (1991) ‘Functional congruity among destination attributes: a
+framework for measuring tourist satisfaction’, Journal of Travel Research, Vol. 30, No. 1,
+pp.11–15.
+Dijkstra, T.K. and Henseler, J. (2015) ‘Consistent partial least squares path modeling’, MIS
+Quarterly, Vol. 39, No. 2, pp.297–316.
+Ekinci, Y. and Hosany, S. (2006) ‘Destination personality: an application of brand personality to
+tourism destinations’, Journal of Travel Research, Vol. 45, No. 2, pp.127–139.
+Faul, F., Erdfelder, E., Lang, A.G. and Buchner, A. (2007) ‘G*Power 3: a flexible statistical power
+analysis program for the social, behavioral, and biomedical sciences’, Behavior Research
+Methods, Vol. 39, No. 2, pp.175–191.
+96 E. Baydeniz and M. Valeri
+Fornell, C. and Larcker, D.F. (1981) ‘Evaluating structural equation models with unobservable
+variables and measurement error’, Journal of Marketing Research, Vol. 18, No. 1, pp.39–50,
+https://doi.org/10.1177/002224378101800104.
+Franceschinis, C., Swait, J., Vij, A. and Thiene, M. (2022) ‘Determinants of recreational activities
+choice in protected areas’, Sustainability, Vol. 14, No. 1, p.412.
+Ghozali, I. and Latan, H. (2015) Partial Least Squares, Konsep, Teknik Dan Aplikasi
+Menggunakan Program Smartpls 3.0 Untuk Penelitian Empiris, Badan Penerbit UNDIP,
+Semarang.
+Gomez Aguilar, N.J., Arana Landín, G. and López Sánchez, J.Á. (2014) ‘Destination personality: a
+conceptualization proposal’, International Journal of Business and Social Science, Vol. 5,
+No. 11, pp.1–9.
+Gudergan, S.P., Ringle, C.M., Wende, S. and Will, A. (2008) ‘Confirmatory tetrad analysis in PLS
+path modeling’, Journal of Business Research, Vol. 61, No. 12, pp.1238–1249.
+Gursoy, D., Chi, C.G.Q. and Lu, L. (2020) ‘Antecedents and outcomes of travelers’ destination
+loyalty: a meta-analytic review’, Journal of Travel Research, Vol. 59, No. 7, pp.1146–1165.
+Hair Jr, J.F., Sarstedt, M., Ringle, C.M. and Gudergan, S.P. (2017) Advanced Issues in Partial
+Least Squares Structural Equation Modeling, Sage Publications, Los Angeles.
+Hankinson, G. (2004) ‘Relational network brands: towards a conceptual model of place brands’,
+Journal of Vacation Marketing, Vol. 10, No. 2, pp.109–121.
+Henseler, J., Hubona, G. and Ray, P.A. (2016) ‘Using PLS path modeling in new technology
+research: updated guidelines’, Industrial Management & Data Systems, Vol. 116, No. 1,
+pp.2–20, https://doi.org/10.1108/IMDS-09-2015-0382.
+Hosany, S., Ekinci, Y. and Uysal, M. (2006) ‘Destination image and destination personality: an
+application of branding theories to tourism places’, Journal of Business Research, Vol. 59,
+No. 5, pp.638–642.
+Hsu, M.H., Ju, T.L. and Yen, C.H. (2009) ‘Destination image and tourist loyalty: a study of
+Pokhara, Nepal’, Journal of Hospitality and Tourism Management, Vol. 16, No. 1, pp.1–10.
+Hu, L.T. and Bentler, P.M. (1998) ‘Fit indices in covariance structure modeling: sensitivity to
+underparameterized model misspecification’, Psychological Methods, Vol. 3, No. 4, p.424.
+Huang, Z., Zhang, C. and Hu, J. (2017) ‘Destination brand personality and destination brand
+attachment – the involvement of self-congruence’, Journal of Travel & Tourism Marketing,
+Vol. 34, No. 9, pp.1198–1210.
+Hultman, M., Strandberg, C., Oghazi, P. and Mostaghel, R. (2017) ‘The role of destination
+personality fit in destination branding: antecedents and outcomes’, Psychology & Marketing,
+Vol. 34, No. 12, pp.1073–1083.
+Hung, K. and Petrick, J.F. (2011) ‘Why do you cruise? Exploring the motivations for taking cruise
+holidays, and the construction of a cruising motivation scale’, Tourism Management, Vol. 32,
+No. 2, pp.386–393.
+Hung, K. and Petrick, J.F. (2012) ‘Testing the effects of congruity, travel constraints, and
+self-efficacy on travel intentions: an alternative decision-making model’, Tourism
+Management, Vol. 33, No. 4, pp.855–867.
+Johar, J.S. and Sirgy, M.J. (1991) ‘Value-expressive versus utilitarian advertising appeals: when
+and why to use which appeal’, Journal of Advertising, Vol. 20, No. 3, pp.23–33.
+Kang, J. and Sung, Y. (2021) ‘Self-congruity and the effects of social media advertising on
+purchase intention: the mediating role of attitude toward advertising’, Journal of Promotion
+Management, Vol. 25, No. 6, pp.780–800.
+Kaushal, V., Kumar, R. and Chauhan, A. (2019) ‘Destination personality and its impact on tourist
+behavior: a systematic review’, Journal of Hospitality and Tourism Management, Vol. 38,
+pp.69–79.
+Kim, J.H., Moon, H.C. and Han, H. (2004) ‘The relationship between the perceived fit of
+destination attributes and the behavioral intention of tourists: the case of Korean outbound
+tourists’, Tourism Management, Vol. 25, No. 6, pp.741–750.
+Recreational activity and intention revisit 97
+Klipfel, J.T., Lee, S.Y. and Lee, T.J. (2014) ‘Measuring functional congruity in a tourism context: a
+confirmatory factor analysis’, Journal of Travel Research, Vol. 53, No. 1, pp.133–143.
+Kock, N. and Lynn, G. (2012) ‘Lateral collinearity and misleading results in variance-based SEM:
+an illustration and recommendations’, Journal of the Association for Information Systems,
+Vol. 13, No. 7, pp.1–40.
+Kumar, A. and Nayak, J.K. (2014a) ‘Factors influencing consumer buying behavior: a review’,
+International Journal of Management Research and Business Strategy, Vol. 3, No. 1,
+pp.25–32.
+Kumar, S. and Nayak, J.K. (2014b) ‘Role of functional congruity in predicting tourist’s revisit
+intentions’, Journal of Vacation Marketing, Vol. 20, No. 2, pp.195–208.
+Lee, T.H. and Chang, Y.S. (2012) ‘The influence of experiential marketing and activity
+involvement on the loyalty intentions of wine tourists in Taiwan’, Leisure Studies, Vol. 31,
+No. 1, pp.103–121.
+Li, X. and Petrick, J.F. (2016) ‘A meta-analytic investigation of the antecedents of repeat
+visitation’, Journal of Travel Research, Vol. 55, No. 8, pp.1042–1060.
+Lin, Y. C. and Chao, Y.H. (2022) ‘The effect of self-congruity and congruous advertising on
+consumers’ attitudes and purchase intentions’, Journal of Promotion Management, Vol. 25,
+No. 6, pp.780–800.
+Lohmöller, J.B. (1989) ‘Predictive vs. structural modeling: PLS vs. ML’, in Latent Variable Path
+Modeling with Partial Least Squares, pp.199–226, Physica, Heidelberg.
+Markus, H. and Nurius, P. (1986) ‘Possible selves’, American Psychologist, Vol. 41, No. 9,
+pp.954–969.
+Murphy, L., Benckendorff, P. and Moscardo, G. (2007a) ‘Destination brand personality: visitor
+perceptions of a regional tourism destination’, Tourism Analysis, Vol. 12, Nos. 5–6,
+pp.419–432.
+Murphy, L., Moscardo, G. and Benckendorff, P. (2007b) ‘Using brand personality to differentiate
+regional tourism destinations’, Journal of Travel Research, Vol. 46, No. 1, pp.5–14.
+Podsakoff, P.M. and Organ, D.W. (1986) ‘Self-reports in organizational research: problems and
+prospects’, Journal of Management, Vol. 12, No. 4, pp.531–544.
+Ringle, C.M., Sarstedt, M. and Straub, D. (2015) ‘A critical look at the use of PLS-SEM in MIS
+Quarterly’, MIS Quarterly, Vol. 39, No. 1, pp.3–14.
+Samli, A.C. and Sirgy, M.J. (1982) ‘A proposed model for the study of consumer
+satisfaction/dissatisfaction with purchases’, Journal of Consumer Satisfaction, Dissatisfaction
+and Complaining Behavior, Vol. 1, No. 1, pp.16–26.
+Schaarschmidt, M., Walsh, G. and Ivens, S. (2015) ‘Perceived external reputation as a driver of
+organizational citizenship behavior: replication and extension’, Corporate Reputation Review,
+Vol. 18, No. 4, pp.314–336.
+Sirgy, M.J. (1982) ‘Self-concept in consumer behavior: a critical review’, Journal of Consumer
+Research, Vol. 9, No. 3, pp.287–300.
+Sirgy, M.J. and Su, C. (2000) ‘Destination image, self-congruity, and travel behavior: toward an
+integrative model’, Journal of Travel Research, Vol. 38, No. 4, pp.340–352.
+Souiden, N., Jemai, Z. and Mzoughi, N. (2017) ‘Destination personality and tourists’ emotional
+experiences: investigating the moderating role of destination image’, Journal of Travel
+Research, Vol. 56, No. 1, pp.102–115.
+Swann, W.B., Griffin, J.J., Predmore, S.C. and Gaines, B. (2015) ‘The cognitive-affective crossfire:
+when self-consistency confronts self-enhancement’, Journal of Personality and Social
+Psychology, Vol. 52, No. 4, pp.881–889.
+TDK (2022) Kişilik, Türk Dil Kurumu [online] https://sozluk.gov.tr/ (accessed 17 April 2023).
+Tenenhaus, M., Vinzi, V.E., Chatelin, Y.M. and Lauro, C. (2005) ‘PLS path modeling’,
+Computational Statistics & Data Analysis, Vol. 48, No. 1, pp.159–205.
+98 E. Baydeniz and M. Valeri
+Usakli, A. and Baloğlu, S. (2011) ‘Brand personality of tourist destinations: an application of
+self-congruity theory’, Tourism Management, Vol. 32, No. 1, pp.114–137.
+Voorhees, C.M., Brady, M.K., Calantone, R. and Ramirez, E. (2016) ‘Discriminant validity testing
+in marketing: an analysis, causes for concern, and proposed remedies’, Journal of The
+Academy of Marketing Science, Vol. 44, No. 1, pp.119–134.
+Wang, C.L., Sarkar, A. and Sarkar, J.G. (2018) ‘Building the holy brand: towards a theoretical
+model of brand religiosity’, International Journal of Consumer Studies, Vol. 42, No. 6,
+pp.736–743, https://doi.org/10.1111/ijcs.12430.
+Xiang, Z., Du, Q., Ma, Y. and Fan, W. (2017) ‘A comparative analysis of major online review
+platforms: implications for social media analytics in hospitality and tourism’, Tourism
+Management, Vol. 58, pp.51–65, https://doi.org/10.1016/j.tourman.2016.10.001.
+Yeh, P.H., Liu, C.R. and Yeh, S.S. (2010) ‘Loyalty and its relationship with travel motivation,
+brand personality, and congruity of self image’, International Journal of Agricultural Travel
+and Tourism, Vol. 1, No. 1, pp.94–106. 
