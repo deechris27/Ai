@@ -12,7 +12,7 @@ DeepSeek - https://api-docs.deepseek.com/
 
 LLama - https://www.llama.com/docs/get-started/
 
-get api keys then add the key to a variable in .env file to run the programs.
+get api keys then add the key to a variable in .env file to run the programs in WINDOWS.
 
 **Useful commands:**
 
