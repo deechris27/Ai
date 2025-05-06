@@ -1,4 +1,4 @@
-Create a .env file
+Create a .env file for the corresponding LLM api-keys
 
 **Useful links**
 
