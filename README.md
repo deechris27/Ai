@@ -1,20 +1,29 @@
-create a .env file
+Create a .env file
 
-Get a openai api key from https://platform.openai.com/
+**Useful links**
 
-add the key to a variable in .env file to run and see the scraped results 
+Gemini - https://ai.google.dev/gemini-api/docs
 
-Useful commands:
+Claude - https://docs.anthropic.com/en/api/getting-started
+
+OpenAI - https://platform.openai.com/docs/api-reference/introduction
+
+DeepSeek - https://api-docs.deepseek.com/
+
+LLama - https://www.llama.com/docs/get-started/
+
+get api keys then add the key to a variable in .env file to run the programs.
+
+**Useful commands:**
 
 For running Anaconda in Windows and to work with llms
 
 1. conda create enf -f environment.yml
-
 2. conda activate llms
 3. Verify the Python version and then run "jupyter lab" to start localhost jupyter notebook.
 4. Clone/Create Git Repository as needed and change directory into the git folder in anaconda terminal or navigate to the local git folder in jupyter lab.
 
-Features Covered in this Repo
+**Features Covered in this Repo**
 
 1. Airline AI assistant using GPT-4o model and Gradio for UI leverages   openai tool function to fetch ticket prices for destination city.
 
