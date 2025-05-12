@@ -63,3 +63,5 @@ For running Anaconda in Windows and to work with llms
 
 19. Visualize the embeddings in Vector DB (FAISS)
 
+20. Simple LoRA demo on tiny-gpt2 - Causal Language Model (predicts next word given previous ones) - Can be run in 16GB RAM windows machine.
+
