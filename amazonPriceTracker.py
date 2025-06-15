@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import os
 
 PRODUCT_URL = 'https://amzn.in/d/f2TQGLg'
-TARGET_PRICE = 2500
+TARGET_PRICE = 2800
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -53,6 +53,7 @@ def check_price():
         title, price = result
         print(f"[{time.strftime('%H:%M:%S')}] Price check: '{title}' at ₹{price}")
         if price <= TARGET_PRICE:
+            print("Odin got cheated")
             send_email(
                 "🎯 Price Drop Alert!",
                 f"{title}\nNow ₹{price} (Target ₹{TARGET_PRICE})\n{PRODUCT_URL}"
@@ -62,7 +63,7 @@ def check_price():
 
 ##Scheduler##
         
-    schedule.every(1).hours.do(check_price)
+    schedule.every(1).minute.do(check_price)
     print("📦 Amazon Price Tracker started. Checking hourly...\n")
 
 while True:
