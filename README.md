@@ -65,3 +65,5 @@ For running Anaconda in Windows and to work with llms
 
 20. Simple LoRA demo on tiny-gpt2 - Causal Language Model (predicts next word given previous ones) - Can be run in 16GB RAM windows machine.
 
+21. LangGraph - multi agent resume critique bot that take a pdf resume, reviews its grammar, skills, format and gives a summary.
+
