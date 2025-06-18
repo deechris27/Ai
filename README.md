@@ -67,3 +67,8 @@ For running Anaconda in Windows and to work with llms
 
 21. LangGraph - multi agent resume critique bot that take a pdf resume, reviews its grammar, skills, format and gives a summary.
 
+22. Email assistant that drafts an email based on the context given.
+
+23. Article writer that creates article based on the context, tone and length given.
+
+24. A resume critique that takes your resume and the job description of the position, suggests changes to make it ATS friendly.
