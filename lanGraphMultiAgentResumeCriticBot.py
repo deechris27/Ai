@@ -1,3 +1,7 @@
+# A simple resume critique bot that takes your resume in pdf format
+# screens it for Grammar, Skills and Format and offers suggestions and corrections
+
+
 from langgraph.graph import StateGraph, END
 from typing import TypedDict
 import google.generativeai as genai
