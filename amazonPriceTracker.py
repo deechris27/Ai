@@ -7,6 +7,7 @@ import schedule
 import time
 from dotenv import load_dotenv
 import os
+from email.message import EmailMessage
 
 PRODUCT_URL = 'https://amzn.in/d/f2TQGLg'
 TARGET_PRICE = 2800
@@ -25,27 +26,28 @@ def get_price():
     soup = BeautifulSoup(response.content, 'lxml')
 
     try:
-        #Adjust based on amazon layout
         title = soup.find(id='productTitle').get_text(strip=True)
-        price_str = soup.find('span', {'a-price-whole'})
+        price_str = soup.find('span', class_='a-price-whole')
         if not price_str:
-            print("Price not found. Check selector.")
+            print("Price not found. Check selector or Amazon may be blocking scraping.")
             return None
-        price = int(price_str.get_text().replace(',', '').strip())
+        price = float(price_str.get_text().replace(',', '').replace('₹', '').strip())
         return title, price
-  
     except Exception as e:
         print("Error parsing price: ", e)
         return None
-    
 
 def send_email(subject, body):
+    msg = EmailMessage()
+    msg['Subject'] = subject
+    msg['From'] = sender_email
+    msg['To'] = receiver_email
+    msg.set_content(body)  # Unicode-safe body
+
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as connection:
         connection.login(sender_email, sender_email_password)
-        message = f"Subject:{subject}\n\n{body}"
-        connection.sendmail(send_email, receiver_email, message)
-        print("Email sent!")
-
+        connection.send_message(msg)
+        print("✅ Email sent successfully!")
 
 def check_price():
     result = get_price()
@@ -53,20 +55,18 @@ def check_price():
         title, price = result
         print(f"[{time.strftime('%H:%M:%S')}] Price check: '{title}' at ₹{price}")
         if price <= TARGET_PRICE:
-            print("Odin got cheated")
             send_email(
-                "🎯 Price Drop Alert!",
+                "Price Drop Alert!",
                 f"{title}\nNow ₹{price} (Target ₹{TARGET_PRICE})\n{PRODUCT_URL}"
             )
     else:
         print("Failed to retrieve product price.")
 
-##Scheduler##
-        
-    schedule.every(1).minute.do(check_price)
-    print("📦 Amazon Price Tracker started. Checking hourly...\n")
+# ✅ Correct place to schedule
+schedule.every(1).minutes.do(check_price)
+
+print("📦 Amazon Price Tracker started. Checking every minute...\n")
 
 while True:
-  schedule.run_pending()
-  time.sleep(1)
-
+    schedule.run_pending()
+    time.sleep(1)
