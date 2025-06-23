@@ -6,13 +6,17 @@ from memory import add_product, update_product, delete_product, list_products
 from langgraph.graph import StateGraph, END
 from langchain.schema import HumanMessage, SystemMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
+from typing import TypedDict, Optional
 
 load_dotenv()
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.4)
 
 
-class ProductState(dict): pass
+class ProductState(TypedDict, total=False):
+    name: str
+    price: float
+    action: str
 
 def parse_intent(state):
     user_input = state.get("input")
@@ -35,9 +39,8 @@ def parse_intent(state):
     ]
 
     parsed = llm(messages).content
-    new_state = dict(state)
-    new_state["parsed"] = parsed
-    return ProductState(new_state)
+    
+    return ProductState(**state, product=parsed)
 
 def execute_action(state):
     parsed = json.loads(state.get("parsed", "{}"))
