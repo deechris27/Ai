@@ -81,6 +81,6 @@ if __name__ == "__main__":
         if user_input.lower() in ["exit", "quit"]:
             break
         result = app.invoke(ProductState(input=user_input))
-        print("🧪 Raw result:", result)
+        print(" Raw result:", result)
 
         #print("Bot :", result["result"])

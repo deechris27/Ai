@@ -18,7 +18,7 @@ def run_graph(filename: str, content: bytes):
 
     #LangGraph only processes `text`, not bytes
     def parse_and_extract(state):
-        print("📥 Received state in node:", state)
+        print("Received state in node:", state)
 
         text = state.get("text")
         if not text:
