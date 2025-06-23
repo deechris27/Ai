@@ -77,6 +77,8 @@ For running Anaconda in Windows and to work with llms
 
 26. Langraph - DocumentAnalystAgent - A multi agent system that accepts PDF documents extracts key sections like experience, tech skills, project summaries supports CRUD operations on a structured summary(dict or JSON), Langraph loop to allow multi step input, Analyser agent to extract data via Gemini, Intent parser ("Experience", "Skill"), PDF loader (pdf plumber). 
 
-    --> To start 25, 26 Run uvicorn app.main:app --reload
-    --> Hit endpoints /upload with body file->your_resume.pdf
+    --> To start 25, 26 Run uvicorn app.main:app --reload <br />
+    ##
+    --> Hit endpoints /upload with body file->your_resume.pdf <br />
+    ##
     --> Hit endpoint /chat with body {"query": "your query on resume"} to get details from resume
