@@ -6,7 +6,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
 [![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
 
-> A comprehensive collection of **26+ AI projects** demonstrating expertise in **LLMs**, **RAG systems**, **Multi-Agent architectures**, **Vector databases**, and **production-ready AI applications**.
+> A comprehensive collection of **30+ AI projects** demonstrating expertise in **LLMs**, **RAG systems**, **Multi-Agent architectures**, **Vector databases**, and **production-ready AI applications**.
 
 ---
 
